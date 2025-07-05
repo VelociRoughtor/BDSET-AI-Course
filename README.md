@@ -1,4 +1,4 @@
-# BDSET Course: Training on AI for Immersive Technology
+# Course: Training on AI for Immersive Technology by BDSET
 
 ![AI Training](Images/AI.jpg)
 
@@ -11,7 +11,7 @@
 
 ## Batch Schedule
 
-| My Batch Number| Start Date                |
+| My Batch       | Start Date                |
 |----------------|---------------------------|
 | 15th Batch     | 3 June (Saturday), 2025   |
 
@@ -22,11 +22,14 @@ This repository includes:
 - Course Outline
 - Comprehensive class materials  
 - Detailed notes  
-- Source code  
+- Source codes
 - NSDA exam resources  
 - Reference books  
 - Additional learning aids  
 
 ---
 
-For more information, please contact the course coordinator or refer to official course communications.
+For more information, please contact the course coordinator or refer to official course communications. 
+Website Link: 'https://bdset-ictd.org/'
+
+
