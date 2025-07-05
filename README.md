@@ -29,7 +29,8 @@ This repository includes:
 
 ---
 
-For more information, please contact the course coordinator or refer to official course communications. 
-Website Link: 'https://bdset-ictd.org/'
+For more information, please contact the course coordinator or refer to official course communications.
+
+Website Link: https://bdset-ictd.org/
 
 
