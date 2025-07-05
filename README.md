@@ -19,7 +19,7 @@
 
 This repository includes:
 
-- Syllabus of the course 
+- Course Outline
 - Comprehensive class materials  
 - Detailed notes  
 - Source code  
